@@ -1,0 +1,3 @@
+[submodule "Expense-Tracker/lib/forge-std"]
+	path = Expense-Tracker/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
